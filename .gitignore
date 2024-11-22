@@ -1,0 +1,10 @@
+# Python関連
+__pycache__/
+*.pyc
+
+# APIキーなど
+*.json
+token.pickle
+
+# 環境ファイル
+.env
